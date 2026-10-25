@@ -71,8 +71,8 @@ export default function Login() {
         </div>
 
         <p className="fine">
-          Built by a student, for students. Your answers are saved only to track your weak topics, and you can delete
-          them anytime.
+          Built by a student, for students. Your answers are used to mark you and track your weak topics, and you can
+          delete them anytime. <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a>
         </p>
       </div>
 

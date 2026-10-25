@@ -94,7 +94,8 @@ export default function App() {
           )}
         </main>
         <footer className="foot">
-          VivaCoach by AK ONE. An early version: AI marks can be wrong, so check the model answer.
+          VivaCoach by AK ONE. An early version: AI marks can be wrong, so check the model answer.{" "}
+          <a href="/privacy/">Privacy</a> · <a href="/terms/">Terms</a>
         </footer>
       </BrowserRouter>
     </Ctx.Provider>
